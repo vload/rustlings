@@ -1,0 +1,10 @@
+Run `cargo check` periodically to make sure it compiles or constantly?.
+
+The `loop` keyword tells Rust to execute a block of code over and over again forever or until you explicitly tell it to stop.
+
+`loop` = while true
+
+let y = {
+    let x = 3;
+    x + 1
+}; // equivalent to `let y = 3 + 1;`
