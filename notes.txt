@@ -8,3 +8,5 @@ let y = {
     let x = 3;
     x + 1
 }; // equivalent to `let y = 3 + 1;`
+
+rustup docs --book for the book
